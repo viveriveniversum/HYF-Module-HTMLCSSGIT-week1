@@ -1,4 +1,0 @@
-to create a hidden file use .(dot) before the file name. To show it we can use ls -a command
-2.Use mkdir -p 1/2/3 command to create multiple nested directories
-3. To add a message to a newline, without 
- character we can use 'echo message >> a.txt' .
